@@ -1,0 +1,20 @@
+.cabecalho{
+
+    display: flex;
+    flex-direction: row;
+    background-color: #313131;
+    
+    
+    .img{
+        width: 64px;
+        height: 64px;
+        padding: 10px 36px;
+    }
+
+    .texto{
+        color: #EDF2F4;
+        font-size: 22px;
+        font-weight: 700;
+    }
+
+}

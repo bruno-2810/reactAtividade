@@ -1,0 +1,30 @@
+.inicio {
+
+
+
+    display: flex;
+    flex-direction: column;
+
+    .sim {
+        padding: 10px 110px 400px 110px;
+    }
+
+    .titulo {
+        font-size: 36px;
+        color: #313131;
+        font-weight: 400;
+        margin-left: 195px;
+        margin-top: 50px;
+
+    }
+
+    .cards {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+
+    }
+
+
+
+}
